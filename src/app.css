@@ -1,0 +1,9 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    background: #f0f0f5;
+}
+img {
+    width: 100%;
+    border: solid 2px #ffffff;
+}

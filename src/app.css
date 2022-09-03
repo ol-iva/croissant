@@ -2,8 +2,27 @@ body {
     max-width: 800px;
     margin: auto;
     background: #f0f0f5;
+    color: #333333;
+    line-height: 2em;
 }
 img {
     width: 100%;
     border: solid 2px #ffffff;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    padding: 12px;
+    border: solid 2px #ffffff;
+}
+li a {
+    text-decoration: none;
+    color: #333333;
+}
+li:hover  a {
+color: white;
+}
+li:hover {
+    background: #333333;
 }
